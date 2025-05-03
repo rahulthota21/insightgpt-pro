@@ -85,19 +85,6 @@ vite.config.ts        # Vite config and aliases
 
 ---
 
-## 📸 Screenshots
-
-> _Coming Soon_ — Include UI snapshots, animations, and Lottie previews here.
-
----
-
-## 📄 License
-
-MIT License © 2024 [Your Name]  
-Free to use, modify, and deploy for personal or academic purposes.
-
----
-
 ## 🙏 Acknowledgements
 
 - [shadcn/ui](https://ui.shadcn.com/)
